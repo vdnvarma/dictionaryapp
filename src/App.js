@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Free Dictionary</h1>
+      <h1>Dictionary</h1>
       <div className="searchBox">
         <input
           type="text"
